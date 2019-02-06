@@ -9,6 +9,34 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock Text="fnzbufzbqifzqbfizqhbfuzqbfzq"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="65*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid Grid.Column="0">
+            <!--Pour la premiere colonne-->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="20*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Height="100" Width="auto" Orientation="Vertical">
+                <TextBlock>
+                    nom de la brasserie
+                </TextBlock>
+                <TextBox Width="200"  Height="30">
+
+                </TextBox>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Column="2">
+            <!-- pour la deuxiéme colonne -->
+        </Grid>
     </Grid>
 </Page>
