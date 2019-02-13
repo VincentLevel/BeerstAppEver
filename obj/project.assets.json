@@ -27909,24 +27909,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\level\\.nuget\\packages\\": {},
+    "C:\\Users\\ABALO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\level\\source\\repos\\BeerstAppEver\\BeerstAppEver\\BeerstAppEver.csproj",
+      "projectUniqueName": "C:\\Users\\ABALO\\Documents\\GitHub\\BeerstAppEver\\BeerstAppEver.csproj",
       "projectName": "BeerstAppEver",
-      "projectPath": "c:\\users\\level\\source\\repos\\BeerstAppEver\\BeerstAppEver\\BeerstAppEver.csproj",
-      "packagesPath": "C:\\Users\\level\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\level\\source\\repos\\BeerstAppEver\\BeerstAppEver\\obj\\",
+      "projectPath": "C:\\Users\\ABALO\\Documents\\GitHub\\BeerstAppEver\\BeerstAppEver.csproj",
+      "packagesPath": "C:\\Users\\ABALO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ABALO\\Documents\\GitHub\\BeerstAppEver\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\level\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ABALO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-N14KGH0</Machine>
-    <WindowsUser>level</WindowsUser>
+    <Machine>DESKTOP-TPUBLOV</Machine>
+    <WindowsUser>ABALO</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>359285a6-d9d3-486c-a3e8-ba6310737248</PackageIdentityName>
     <PackageIdentityPublisher>CN=level</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ABALO\Documents\GitHub\BeerstAppEver\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F8F9B5BDF8623E5C72D7F67595A0D97BC2AB5597CA3AAE46E8777CF09D08E2D3</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>75B38E0E4FFCAD425F2F4754B5FFA0CC42F1220672FEE280F01AB9103697EBFA</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>359285a6-d9d3-486c-a3e8-ba6310737248_1.0.0.0_x86__grbcnh1arav0c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>359285a6-d9d3-486c-a3e8-ba6310737248_grbcnh1arav0c!App</RegisteredUserModeAppID>
     <RegisteredPackageID>359285a6-d9d3-486c-a3e8-ba6310737248</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T16:32:59.551</Modified>
+      <Modified>2019-02-13T14:26:54.655</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\BeerstAppEver.exe">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\BeerstAppEver.exe">
       <PackagePath>entrypoint\BeerstAppEver.exe</PackagePath>
-      <Modified>2019-02-06T16:32:59.040</Modified>
+      <Modified>2019-02-13T14:26:54.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -498,67 +498,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-02-06T13:51:28.474</Modified>
+      <Modified>2019-02-06T14:27:54.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.721</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-06T08:13:47.666</Modified>
+      <Modified>2019-02-06T14:27:51.722</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\BeerstAppEver.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\BeerstAppEver.xr.xml">
       <PackagePath>BeerstAppEver.xr.xml</PackagePath>
-      <Modified>2019-02-06T16:32:58.807</Modified>
+      <Modified>2019-02-13T14:14:03.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-02-06T16:32:58.820</Modified>
+      <Modified>2019-02-13T14:26:54.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-02-06T16:32:58.821</Modified>
+      <Modified>2019-02-13T14:26:54.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T23:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-02-06T14:22:57.719</Modified>
+      <Modified>2019-02-13T13:03:47.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\level\source\repos\BeerstAppEver\BeerstAppEver\bin\x86\Debug\Core\BeerstAppEver.exe">
+    <AppxPackagedFile Include="C:\Users\ABALO\Documents\GitHub\BeerstAppEver\bin\x86\Debug\Core\BeerstAppEver.exe">
       <PackagePath>BeerstAppEver.exe</PackagePath>
-      <Modified>2019-02-06T16:32:59.525</Modified>
+      <Modified>2019-02-13T14:26:54.652</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

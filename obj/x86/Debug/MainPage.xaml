@@ -25,7 +25,7 @@
                 <ColumnDefinition Width="80*"/>
                 <ColumnDefinition Width="20*"/>
             </Grid.ColumnDefinitions>
-            <StackPanel Height="100" Width="auto" Orientation="Vertical">
+            <StackPanel Height="70" Width="auto" Orientation="Vertical">
                 <TextBlock>
                     nom de la brasserie
                 </TextBlock>
@@ -33,11 +33,30 @@
 
                 </TextBox>
             </StackPanel>
+
+            <StackPanel Height="auto" Width="auto" Grid.Row="1">
+
+                <CheckBox Content="name" Margin="5" Width="200" IsChecked="True"/>
+                <CheckBox Content="Description"  Margin="5"  Width="200" IsChecked="True" />
+                <CheckBox Content="website" Margin="5"  Width="200" IsChecked="True"/>
+                <CheckBox Content="creatin date" Margin="5"  Width="200" IsChecked="True"/>
+                <CheckBox Content="Mailing Adresse" Margin="5"  Width="200" IsChecked="True"/>
+                <CheckBox Content="Organic" Margin="5"  Width="200" IsChecked="True"/>
+            </StackPanel>
+
         </Grid>
 
         <Grid Grid.Column="2">
             <!-- pour la deuxiéme colonne -->
+            <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+            <StackPanel Height="auto" Width="auto">
+                
+            </StackPanel>
         </Grid>
+      
     </Grid>
 </Page>
 
